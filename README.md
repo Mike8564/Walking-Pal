@@ -8,7 +8,7 @@ It use track your location and ccaculate your avg. speed and the distance of you
 
 # Functionality 
 
-WalkingPal will show your current location on map and by pressing start button WalkingPal will start to track your locations
+WalkingPal will show user current location on map and by pressing start button WalkingPal will start to track user locations
 
 ![](Images/ScreenShot1.png)
 
@@ -26,3 +26,13 @@ By ending the activity WalkingPal will show user the tracked path which passed.
 And by tapping the Activity Log button in tab bar user can check all of activities.
 
 ![](Images/ScreenShot2.png)
+
+
+# Contact me
+
+for any support or feedback you can reach me by : mike.dev.acc@gmail.com
+
+Thank you so much!
+
+
+
