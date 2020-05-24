@@ -19,7 +19,7 @@ When user doing an activity there is two option to choose:
 
 ![](Images/ScreenShot3.png)
 
-
+![](Images/Stop-Function.gif)
 
 By ending the activity WalkingPal will show user the tracked path which passed.
 
