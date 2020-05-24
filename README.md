@@ -18,7 +18,7 @@ When user doing an activity there is two option to choose:
 2:Stop activity by swipe the left botton to the right, it will finish the tracking activity.
 
 ![](Images/ScreenShot3.png)
-
+![](Images/Stop-Function.gif)
 By ending the activity WalkingPal will show user the tracked path which passed.
 
 ![](Images/ScreenShot4.png)
