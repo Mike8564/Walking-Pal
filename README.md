@@ -17,4 +17,4 @@ When user doing an activity there is two option to choose:
 1:Pasue activity by pressing the pause button and continue activity by pressing it again.
 2:Stop activity by swipe the left botton to the right, it will finish the tracking activity.
 
-![](Images/ScreenShot2.png)
+![](Images/ScreenShot3.png)
