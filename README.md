@@ -18,3 +18,11 @@ When user doing an activity there is two option to choose:
 2:Stop activity by swipe the left botton to the right, it will finish the tracking activity.
 
 ![](Images/ScreenShot3.png)
+
+By ending the activity WalkingPal will show user the tracked path which passed.
+
+![](Images/ScreenShot4.png)
+
+And by tapping the Activity Log button in tab bar user can check all of activities.
+
+![](Images/ScreenShot2.png)
