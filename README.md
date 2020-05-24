@@ -1,3 +1,3 @@
-# Walking-Pal
-Hello world
+# WalkingPal
+
 ![](Images/WalkingIcon128x640.png)
