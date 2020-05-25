@@ -12,10 +12,10 @@ WalkingPal will show user current location on map and by pressing start button W
 
 ![](Images/ScreenShot1.png)
 
-When user doing an activity there is two option to choose:</br>
+When user doing an activity there are two options to choose:</br>
 
-1:Pasue activity by pressing the pause button and continue activity by pressing it again.</br>
-2:Stop activity by swipe the left botton to the right, it will finish the tracking activity.</br>
+1: Pasue activity by pressing the pause button and continue activity by pressing it again.</br>
+2: Stop activity by swipe the left botton to the right, it will finish the tracking activity.</br>
 
 <div align="center">
 <img src="Images/Stop-Function1.gif" >
