@@ -3,7 +3,7 @@
 ![](Images/WalkingIcon128x640.png)
 
 <div align="center">
-<img src=hImages/Stop-Function1.gif" >
+<img src=Images/Stop-Function1.gif" >
 <p>Perfectly balanced</p>
 </div>
 
