@@ -2,6 +2,11 @@
 
 ![](Images/WalkingIcon128x640.png)
 
+<div align="center">
+<img src=hImages/Stop-Function1.gif" >
+<p>Perfectly balanced</p>
+</div>
+
 WalkingPal is your activity tracker when you need to track your walking, jogging or runnig activity with easy and sample interface.
 
 It track your location and calculate your avg. speed and the distance of your activity.
