@@ -2,13 +2,6 @@
 
 ![](Images/WalkingIcon128x640.png)
 
-# OverView
-
-<div align="center">
-<img src="Images/Stop-Function1.gif" >
-<p>Perfectly balanced</p>
-</div>
-
 WalkingPal is your activity tracker when you need to track your walking, jogging or runnig activity with easy and sample interface.
 
 It track your location and calculate your avg. speed and the distance of your activity.
@@ -24,7 +17,10 @@ When user doing an activity there is two option to choose:
 1:Pasue activity by pressing the pause button and continue activity by pressing it again.
 2:Stop activity by swipe the left botton to the right, it will finish the tracking activity.
 
-![](Images/ScreenShot3.png)
+<div align="center">
+<img src="Images/Stop-Function1.gif" >
+<p>Perfectly balanced</p>
+</div>
 
 By ending the activity WalkingPal will show user the tracked path which passed.
 
